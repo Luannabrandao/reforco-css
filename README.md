@@ -1,30 +1,35 @@
-💎 # NFT Card Component
-Este projeto é um componente de card NFT desenvolvido com HTML e CSS puro, inspirado em desafios de front-end para treinar habilidades de layout, responsividade e boas práticas de estilização.
+# 💎 NFT Card Component
 
+Este projeto é um componente de card NFT criado com HTML e CSS puro. Ele simula a apresentação de um NFT com estilo moderno, ideal para treino de layout, responsividade e boas práticas de estilização web.
 
-📌 Descrição
-O card exibe uma peça da coleção de NFTs fictícia "Equilibrium", contendo:
+---
 
-Uma imagem central com efeito de destaque.
+## 🖼️ Preview
 
-Título da obra: Equilibrium #3429
+![NFT Card Preview](./caminho-da-imagem.png)
 
-Descrição curta do NFT.
+---
 
-Valor em Ethereum (0.041 ETH)
+## 📌 Descrição
 
-Tempo restante para venda (3 days left)
+O card exibe as seguintes informações:
 
-Identificação do criador (Jules Wyvern) com avatar.
+- Imagem do NFT
+- Nome da arte: **Equilibrium #3429**
+- Descrição do item
+- Preço em Ethereum: `0.041 ETH`
+- Tempo restante: `3 days left`
+- Criador: **Jules Wyvern**, com foto de perfil
 
-🎯 Tecnologias Utilizadas
-HTML5
+---
 
-CSS3
+## 🛠️ Tecnologias Utilizadas
 
-Fontes do Google Fonts
+- **HTML5**
+- **CSS3**
+- **Flexbox**
+- **Fontes personalizadas (Google Fonts)**
+- **Ícones SVG**
+- **Responsividade mobile-first**
 
-Ícones SVG para detalhes visuais
-
-Layout responsivo com flexbox
-
+---
